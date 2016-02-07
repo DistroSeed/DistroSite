@@ -1,8 +1,11 @@
-# DistroSeed-Dashboard
+# [DistroSeed-Dashboard](https://distroseed.com)
 DistroSeed is an automated toolset to find, download, and manage Linux Distributions. Give back to the open source community by donating bandwidth and seeding new distributions.
 
 ### Overview ###
 * This is the primary site showcasing DistroSeed. A robust platform for finding and seeding your favorite Linux distributions.
+
+### Dev ###
+* Track our progress, fork our work, or recommend merges [here](https://github.com/https://github.com/DistroSeed/DistroSeed)
 
 ### Contributions ###
 * Co founded by Ian Norden and Leon Denard, primary contributors include Chris Neal and Scott Groveman.
